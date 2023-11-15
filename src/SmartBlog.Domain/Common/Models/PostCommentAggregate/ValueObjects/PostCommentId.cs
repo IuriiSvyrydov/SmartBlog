@@ -1,6 +1,4 @@
 ﻿
-using System.Runtime.CompilerServices;
-
 namespace SmartBlog.Domain.Common.Models.PostCommentAggregate.ValueObjects;
 
 public sealed class PostCommentId : ValueObject
